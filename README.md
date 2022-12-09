@@ -22,6 +22,17 @@ KegScreen TV is currently available in open beta through the Google Play app sto
 5. Launch KegScreen TV
 
 
+### How to install KegScreen TV for Fire TV:
+
+1. Go to the KegScreen TV [page on Amazon](https://www.amazon.com/gp/product/B0BFHNVYZ1) while logged in to the same Amazon account as your Fire TV
+2. Select the correct Fire TV device in the panel on the right
+3. Click "Get App"
+4. Wait for KegScreen TV to install on your device.
+5. Launch KegScreen TV
+
+Note - KegScreen TV can also be directly downloaded from the Amazon app store on your Fire TV device.
+
+
 ## Device Support
 
 
@@ -39,9 +50,5 @@ Need a device? The developer recommends the [Chromecast with Google TV](https://
 
 ### Supported Fire TV Devices
 
-KegScreen TV works on all Amazon Fire TV devices.  
-
-Please note - KegScreen TV has not yet been released on the Amazon App Store.
-
-
+KegScreen TV works on all Amazon Fire TV devices.
 
